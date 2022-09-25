@@ -1,10 +1,36 @@
+# 2021.0027
+
+[![INFORMS Journal on Computing  Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License (LICENSE).
+
+The software and data in this repository are a snapshot of the software and data
+that were used in the research reported on in the paper 
+[An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting COVID-19 Hospital Admissions](https://doi.org/) 
+by A. Ray, W. Jank, K. Dutta, and M. Mullarkey. 
+
+## Cite
+
+To cite this software, please cite the [paper](https://doi.org/) using its DOI and the software itself using the following DOI.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.  .svg)](https://doi.org/10.5281/zenodo.)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{LSTMCovid,
+  author =        {A. Ray, W. Jank, K. Dutta, and M. Mullarkey},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting COVID-19 Hospital Admissions},
+  year =          {2022},
+  doi =           {10.5281/zenodo.},
+  note =           {https://github.com/INFORMSJoC/2021.0027}
+}  
+```
+
 # Data for LSTM+ Model
 
 This repository contains the anonymous datasets used for the case study in the LSTM+ model.
-
-## Affiliated Paper
-
-The affiliated paper of this repository is "An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting COVID-19 Hospital Admissions".
 
 ## Dataset
 
