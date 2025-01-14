@@ -11,9 +11,7 @@ by A. Ray, W. Jank, K. Dutta, and M. Mullarkey.
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/) using its DOI and the software itself using the following DOI.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7112004.svg)](https://doi.org/10.5281/zenodo.7112004)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2023.1269) using its DOI and the software itself using the following DOI: [https://doi.org/10.1287/ijoc.2023.1269.cd](https://doi.org/10.1287/ijoc.2023.1269.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -23,8 +21,8 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {An LSTM+ Model for Managing Epidemics: Using Population Mobility and Vulnerability for Forecasting COVID-19 Hospital Admissions},
   year =          {2022},
-  doi =           {10.5281/zenodo.7112004},
-  note =           {https://github.com/INFORMSJoC/2021.0027}
+  doi =           {10.1287/ijoc.2023.1269.cd},
+  note =          {https://github.com/INFORMSJoC/2021.0027}
 }  
 ```
 
